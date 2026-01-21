@@ -32,7 +32,7 @@ The final course explores non-labeled data and specialized AI systems.
 
 Each directory contains a Jupyter Notebook of the same name and all necessary supporting files (like `utils.py`) to run the implementation.
 
-### 📈 [C1_W2_Linear_Regression](https://www.google.com/search?q=./C1_W2_Linear_Regression)
+### 📈 [C1_W2_Linear_Regression]
 
 * **Problem:** Predicting profits for a restaurant franchise based on city population.
 * **Implementation:**
@@ -42,7 +42,7 @@ Each directory contains a Jupyter Notebook of the same name and all necessary su
 
 
 
-### 🎯 [C1_W3_Logistic_Regression](https://www.google.com/search?q=./C1_W3_Logistic_Regression)
+### 🎯 [C1_W3_Logistic_Regression]
 
 * **Problem:** Predicting university admission and microchip quality based on test results.
 * **Implementation:**
